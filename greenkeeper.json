@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ali-boiler-plate/package.json"
+      ]
+    }
+  }
+}
